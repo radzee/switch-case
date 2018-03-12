@@ -12,7 +12,8 @@
 - [ ] Proximity awareness
 - [ ] Power consumption
 - [ ] Hackable
-- [ ] Beautiful, Led backlit,full Ambient light sensor + IR transreceiver with learning mode (for selected models)
+- [ ] Beautiful
+- [ ] Led backlit,full Ambient light sensor + IR transreceiver with learning mode (for selected models)
 
 ### SOFTWARE FEATURES
 
